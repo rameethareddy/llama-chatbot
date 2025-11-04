@@ -1,11 +1,8 @@
-pypdf
-langchain
 torch
 accelerate
-bitsandbytes
-ctransformers
-sentence_transformers
-faiss_cpu
+transformers
+sentence-transformers
+faiss-cpu
+langchain==0.0.350
 chainlit
-huggingface_hub
-langchain_community
+pypdf
